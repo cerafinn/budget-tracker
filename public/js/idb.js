@@ -59,5 +59,3 @@ function uploadEntries() {
 };
 
 window.addEventListener('online', uploadEntries);
-
-module.exports = { saveRecord }
