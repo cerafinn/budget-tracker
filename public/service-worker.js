@@ -8,3 +8,12 @@ const FILES_TO_CACHE = [
   "./css/style.css",
   "manifest.json"
 ];
+
+self.addEventListener('fetch', function (e) {
+});
+
+self.addEventListener('install', function (e) {
+});
+
+self.addEventListener('activate', function(e) {
+});
