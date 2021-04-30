@@ -1,5 +1,6 @@
 let transactions = [];
 let myChart;
+const { saveRecord } = require('./idb')
 
 fetch("/api/transaction")
   .then(response => {
