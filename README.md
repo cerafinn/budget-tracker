@@ -8,6 +8,7 @@ Table of Contents |
 -------------------|
 [Installation](#Installation)
 [Usage](#Usage)
+[Technologies](#Technologies)
 [Screenshots](#Screenshots)
 [Contributing](#Contributing)
 [Questions](#Questions)
@@ -31,6 +32,15 @@ You can find the deployed link and the repository link below:
 Deployed Link: [Deployed Link](https://vast-inlet-94560.herokuapp.com/)
 
 Repo Link: [Repo Link](https://github.com/cerafinn/budget-tracker)
+
+<br />
+
+## Technologies
+
+* Progressive Web Application, consisting of:
+  * Service Worker
+  * Manifest.json
+* IndexedDB
 
 <br />
 
