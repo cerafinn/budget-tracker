@@ -10,6 +10,7 @@ Table of Contents |
 [Usage](#Usage)
 [Technologies](#Technologies)
 [Screenshots](#Screenshots)
+[Author](#Author)
 [Contributing](#Contributing)
 [Questions](#Questions)
 
@@ -19,7 +20,7 @@ Table of Contents |
 
 In order to run the project locally for development and testing, ensure that dependencies are installed by running:
 
-`npm i`
+`npm install` or `npm i`
 
 <br />
 
@@ -50,6 +51,12 @@ Repo Link: [Repo Link](https://github.com/cerafinn/budget-tracker)
 
 <br />
 
+## Author
+
+Created with ❤️ by Andaleeb Farooq
+
+<br />
+
 ## Contributing
 
 If interested in contributing to the project, feel free to reach out. Contact information can be found in the Questions section.
@@ -58,5 +65,5 @@ If interested in contributing to the project, feel free to reach out. Contact in
 
 ## Questions
 
-If you have any questions or issues, feel free to reach out through andaleeb.farooq@gmail.com.
+If you have any questions or issues, feel free to reach out at: andaleeb.farooq@gmail.com.
 You can also find more of my work on Github at [github link](https://github.com/cerafinn)
